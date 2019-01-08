@@ -1,0 +1,16 @@
+{
+    "name": "simple-stratum-pascalcoin",
+    "version": "0.0.2",
+    "description": "Minimal stratum for PascalCoin",
+    "main": "lib/index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "dependencies": {
+        "async": "*",
+        "bignum": "0.13.0",
+        "node-randomhash": "git://github.com/PascalCoinFreePool/node-randomhash.git"
+    },
+    "author": "",
+    "license": "GPL-2.0"
+}
